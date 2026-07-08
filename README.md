@@ -95,11 +95,11 @@ Navigate to `http://localhost:5173` in your browser. Upload celestial telemetry 
   
   <br>
 
-  <img src="Screenshot%202026-07-09%20004559.jpg" alt="Aphelion HUD Grad-CAM Heatmap" width="800"/>
+  <img src="Screenshot%202026-07-09%20004559.png" alt="Aphelion HUD Grad-CAM Heatmap" width="800"/>
   <p><i>Live Grad-CAM thermal heatmap generation isolating spatial tensor anomalies.</i></p>
 
   <br>
   
-  <img src="Screenshot%202026-07-08%20151753.jpg" alt="Aphelion Local Environment" width="800"/>
+  <img src="Screenshot%202026-07-08%20151753.png" alt="Aphelion Local Environment" width="800"/>
   <p><i>Command Center locking onto interacting galaxies during local environment testing.</i></p>
 </div>
