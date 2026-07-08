@@ -75,8 +75,7 @@ const AphelionHUD = () => {
 
     try {
       // 🚀 Shooting the image to FastAPI on Port 8000
-      const response = await fetch('http://localhost:8000/api/v1/scan', {
-        method: 'POST',
+const response = await fetch('https://aphelion-space-cnn-2.onrender.com/api/v1/scan', {        method: 'POST',
         body: formData,
       });
 
